@@ -65,7 +65,7 @@ A fully-featured container robbery script for FiveM servers featuring immersive 
 | --------------------- | ------------------------------------------------------------- |
 | Code is accessible    | Partially Escrowed, config.lua available to config everything |
 | Subscription-based    | No                                                            |
-| Lines (approximately) | 430 ~                                                         |
+| Lines (approximately) | 700 ~                                                         |
 | Requirements          | Ox Inventory                                                  |
 | Support               | Yes                                                           |
 
