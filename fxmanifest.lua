@@ -34,5 +34,5 @@ escrow_ignore {
   'config.lua',
   'README.md',
   'LICENSE',
-  'ox_item/**/*
+  'ox_item/**/*'
 }
